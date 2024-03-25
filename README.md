@@ -30,11 +30,6 @@ Scripts are organized by preprocessing and analysis stages:
 * data_organization.R: Organizes images in BIDS format.
 * quality_assessment.py: Assesses the quality of images.
   
-Data
-Description of the datasets used, how to obtain them, and prepare them for analysis.
-Contributing
-Contributions are welcome. Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
 Contact
 If you have any questions or would like to collaborate on the project, feel free to reach out.
 
